@@ -1,0 +1,11 @@
+{
+    "name": "Text to speech",
+    "version": "1.0.0",
+    "description": "Text to speech for pronunciation",
+    "manifest_version": 3,
+    "author": "Abhishek Pandey",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Text to Speech"
+    }
+}
